@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Deliverable2-Message Encoder/1.0.0": {
+        "runtime": {
+          "Deliverable2-Message Encoder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable2-Message Encoder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

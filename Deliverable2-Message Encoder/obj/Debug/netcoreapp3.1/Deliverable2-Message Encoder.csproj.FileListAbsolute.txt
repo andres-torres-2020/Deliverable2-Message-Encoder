@@ -1,0 +1,13 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\bin\Debug\netcoreapp3.1\Deliverable2-Message Encoder.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Deliverable2-Message Encoder\Deliverable2-Message Encoder\obj\Debug\netcoreapp3.1\Deliverable2-Message Encoder.genruntimeconfig.cache
